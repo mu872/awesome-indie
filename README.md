@@ -73,6 +73,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   Aussie Founders is a free community bringing together & supporting Aussies having a go at their own business.
 
+- **[Ask A Monk](https://askamonk.online)**
+
+  A quiet, algorithm-free digital sanctuary for slow web reflection and account-free anonymous human-to-human interaction.
+
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
